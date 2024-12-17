@@ -1,0 +1,4 @@
+create file - touch <file-name>
+create directory - mkdir <dir-name>
+remove directory - rmdir <dir-name>
+list files in directory - ls
